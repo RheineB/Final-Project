@@ -46,6 +46,7 @@ We can see that there is no relation between these two variables.
 <img width="436" alt="Screenshot 2022-10-31 at 14 34 58" src="https://user-images.githubusercontent.com/110307808/199020391-781db453-c666-4804-9d80-c1f042bf886e.png">
 We can observe with this data that the elderly people with ages above 70 has the highest death by self harm ratio.
 
+
 ## Links
 https://ourworldindata.org/internet
 https://apps.who.int/gho/athena/api/GHO/
@@ -57,6 +58,7 @@ https://www.nimh.nih.gov/health/statistics/suicide
 ##Thanks to this reliable notebooks that I used as guides for my project.
 https://github.com/Botafogo1894/Project2/blob/master/Combined_data.ipynb
 https://trello.com/c/k8f8LIfM/5-link-to-the-card-board-or-task-that-this-research-project-is-related-to
+
 
 ## Mental health awareness
 Although the general perception of mental illness has improved over the past decades, studies show that stigma against mental illness is still powerful, largely due to media stereotypes and lack of education, and that people tend to attach negative stigmas to mental health conditions at a far higher rate than to other diseases and disabilities, such as cancer, diabetes or heart disease.
