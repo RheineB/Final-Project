@@ -10,7 +10,7 @@ Globally, close to 800,000 people die from suicide every year. That’s one pers
 https://ourworldindata.org/suicide
 ```
 
-I decided to talk about this matter for my final project in my Ironhack bootcamp to prove that internet has a great impact to this topic. 
+I decided to talk about this matter for my final project in my Ironhack bootcamp to see if the internet has a great impact to one's mental health. Following this, I made this project to show what I've learnt in my 9week intensive bootcamp course using machine learning, web scaping and data cleaning. 
 
 
 ## Data
